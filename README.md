@@ -13,4 +13,4 @@ You can check the ID of your local weather radar info in the URL.
 http://www.bom.gov.au/products/IDR663.loop.shtml   (Which is: 128 km Brisbane (Mt Stapylton) Radar Loop)
 
 
-![alt text](https://github.com/scorpion44/Australia-BOM-RadarImage_GIF/blob/main/IDR663.gif?raw=true)
+![IDR663.gif](https://github.com/scorpion44/Australia-BOM-RadarImage_GIF/blob/main/IDR663.gif?raw=true)
