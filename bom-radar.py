@@ -49,7 +49,7 @@ for file in files:
   pass
 ftp.quit()
 # Store the result as a GIF file
-frames[0].save('/home/daniel/radar.gif', format='GIF',
+frames[0].save(tag + '.gif', format='GIF',
  save_all=True,
  append_images=frames[1:]+[frames[-1],frames[-1]],
  duration=400,
