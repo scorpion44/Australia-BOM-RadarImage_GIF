@@ -5,7 +5,7 @@ Code sourced from and fixed:  https://medium.com/@rolanditaru/create-an-animated
 
 USAGE:
 
-radar.py IDR663
+bom-radar.py IDR663
 
 will output IDR663.gif in the same folder
 
