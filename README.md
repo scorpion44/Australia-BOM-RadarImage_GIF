@@ -2,6 +2,7 @@
 Create an Animated GIF of the Weather Radar in Australia
 
 Code sourced from and fixed:  https://medium.com/@rolanditaru/create-an-animated-gif-of-the-weather-radar-in-australia-37446a0f4de0
+(Code Indentation was broken, also added command line to select the ID of the radar image you require)
 
 USAGE:
 
